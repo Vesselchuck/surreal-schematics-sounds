@@ -1,0 +1,18 @@
+{
+  "name": "surreal-schematics-sounds",
+  "title": "Soundscapes by Surreal Schematics"
+  "description": "A collection of RPG music composed by Brian Stephens.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.0",
+  "author": "Surreal Schematics",
+  "packs": [
+    {
+      "name": "playlists",
+      "label": "Surreal Schematics Sounds",
+      "path": "/packs/playlists.db",
+      "entity": "Playlist",
+      "module": "surreal-schematics-sounds"
+    }
+  ]
+}	
