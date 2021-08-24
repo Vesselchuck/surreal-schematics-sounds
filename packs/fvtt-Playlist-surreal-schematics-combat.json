@@ -1,0 +1,107 @@
+{
+  "name": "Surreal Schematics - Combat",
+  "description": "A playlist for battles and bosses",
+  "sounds": [
+    {
+      "_id": "FVipfSmaND0pqnXA",
+      "name": "Beneath The Gold",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/Beneath%20the%20Gold.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "flags": {}
+    },
+    {
+      "_id": "fwAdAfjPPHLR2pUI",
+      "name": "Duel Of Memory",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/Duel%20of%20Memory.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5240467536394058,
+      "flags": {}
+    },
+    {
+      "_id": "bCq15E6gvmrMBwDm",
+      "name": "Duel Of The Ghikaz",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/Duel%20of%20the%20Ghikaz.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "flags": {}
+    },
+    {
+      "_id": "kQwEjiW86E0u89l1",
+      "name": "Iron Negotiation",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/Iron%20Negotiation.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": true,
+      "volume": 0.5,
+      "flags": {}
+    },
+    {
+      "_id": "KRAsfausJGgIsopU",
+      "name": "Lament For Fire",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/Lament%20for%20Fire.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "flags": {}
+    },
+    {
+      "_id": "HFCJFkT6Imltboke",
+      "name": "The Veil",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/The%20Veil.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "flags": {}
+    },
+    {
+      "_id": "9PjRuAt4Sv6nVSZJ",
+      "name": "Blessing Of Steel",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/Blessing%20of%20Steel.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "flags": {}
+    },
+    {
+      "_id": "8npfpglzATr2KQ8t",
+      "name": "Rancor Steps",
+      "description": "",
+      "path": "modules/surreal-schematics-sounds/combat/Rancor%20Steps.ogg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "flags": {}
+    }
+  ],
+  "mode": -1,
+  "playing": false,
+  "fade": null,
+  "sort": 0,
+  "seed": 302,
+  "flags": {
+    "exportSource": {
+      "world": "surreal-schematics-sounds",
+      "system": "dnd5e",
+      "coreVersion": "0.8.9",
+      "systemVersion": "1.4.2"
+    }
+  }
+}

@@ -4,13 +4,20 @@
   "description": "A collection of RPG music composed by Brian Stephens.",
   "version": "1.0.0",
   "minimumCoreVersion": "0.5.0",
-  "compatibleCoreVersion": "0.8.5",
+  "compatibleCoreVersion": "0.8.9",
   "author": "Surreal Schematics",
   "packs": [
     {
+      "name": "Combat",
+      "label": "Surreal Schematics - Combat",
+      "path": "/packs/fvtt-Playlist-surreal-schematics-combat.json",
+      "entity": "Playlist",
+      "module": "surreal-schematics-sounds"
+    },
+    {
       "name": "playlists",
-      "label": "Surreal Schematics Sounds",
-      "path": "/packs/playlists.db",
+      "label": "Surreal Schematics - Exploration",
+      "path": "/packs/fvtt-Playlist-surreal-schematics-exploration.json",
       "entity": "Playlist",
       "module": "surreal-schematics-sounds"
     }
