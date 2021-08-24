@@ -8,20 +8,13 @@
   "author": "Surreal Schematics",
   "packs": [
     {
-      "name": "Combat",
-      "label": "Surreal Schematics - Combat",
-      "path": "/packs/fvtt-Playlist-surreal-schematics-combat.json",
-      "entity": "Playlist",
-      "module": "surreal-schematics-sounds"
-    },
-    {
       "name": "playlists",
-      "label": "Surreal Schematics - Exploration",
-      "path": "/packs/fvtt-Playlist-surreal-schematics-exploration.json",
+      "label": "Surreal Schematics Sounds",
+      "path": "/packs/surreal-schematics.db",
       "entity": "Playlist",
       "module": "surreal-schematics-sounds"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/SurrealSchematics/surreal-schematics-sounds/main/module.json",
-  "download": "https://github.com/SurrealSchematics/surreal-schematics-sounds/archive/refs/tags/v2.0.zip"
+  "download": "https://github.com/SurrealSchematics/surreal-schematics-sounds/archive/refs/tags/v2.1.zip"
 }
