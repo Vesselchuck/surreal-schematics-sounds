@@ -1,8 +1,0 @@
-- On a computer with the latest module, add any new tracks to the appropriate folders
-- Update the playlists using bulk import
-- Override the playlists in any Surreal Schematics compendium
-- Export the compendium
-- Replace packs/surreal-schematics.db with the new compendium .db file
-- Update the module.json to point to the new tag
-- Push to github, make a new tag
-- 
