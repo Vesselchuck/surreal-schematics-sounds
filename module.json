@@ -1,20 +1,39 @@
 {
-  "name": "surreal-schematics-sounds",
+  "id": "surreal-schematics-sounds",
   "title": "Soundscapes by Surreal Schematics",
   "description": "A collection of RPG music composed by Brian Stephens.",
-  "version": "2.1.0",
-  "minimumCoreVersion": "0.5.0",
-  "compatibleCoreVersion": "0.8.9",
-  "author": "Surreal Schematics",
-  "packs": [
+  "version": "2.2.0",
+  "compatibility": {
+    "minimum": "0.5.0",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "authors": [
     {
-      "name": "playlists",
-      "label": "Surreal Schematics Sounds",
-      "path": "/packs/surreal-schematics.db",
-      "entity": "Playlist",
-      "module": "surreal-schematics-sounds"
+      "name": "Brian Stephens",
+      "url": "https://www.surrealschematics.com/"
+    },
+    {
+      "name": "Vesselchuck#8687",
+      "discord": "Vesselchuck#8687",
+      "url": "https://boosty.to/vesselchuck"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/SurrealSchematics/surreal-schematics-sounds/main/module.json",
-  "download": "https://github.com/SurrealSchematics/surreal-schematics-sounds/archive/refs/tags/v2.1.zip"
+  "packs": [
+    {
+      "label": "Surreal Schematics Sounds",
+      "type": "Playlist",
+      "name": "surreal-schematics-sounds",
+      "path": "/packs/surreal-schematics.db",
+      "package": "surreal-schematics-sounds",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Vesselchuck/surreal-schematics-sounds",
+  "manifest": "https://raw.githubusercontent.com/Vesselchuck/surreal-schematics-sounds/main/module.json",
+  "download": "https://github.com/Vesselchuck/surreal-schematics-sounds/releases/download/latest/surreal-schematics-sounds.zip"
 }
